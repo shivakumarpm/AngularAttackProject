@@ -1,0 +1,19 @@
+<search-header></search-header>
+<section id="taw-content">
+  <div class="container">
+    <div class="row">
+      <div class="col s12">
+        <router-outlet></router-outlet>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s12" [ngClass]="gridClass">
+        <video-list [list]="results"></video-list>
+      </div>
+      <div class="col s12 m9" *ngIf="videoUrl">
+        <video-player [video]="videoUrl"></video-player>
+      </div>
+    </div>
+  </div>
+</section>
+<footer-component></footer-component>

@@ -68,4 +68,15 @@ $container-max-widths: ( sm: 576px, md: 720px, lg: 940px, xl: 1140px) !default;
     //progid: DXImageTransform.Microsoft.gradient( startColorstr='#c62700', endColorstr='#ba2500', GradientType=0);
 }
 
-//color variable end 
+//color variable end
+//mobile media quary
+@mixin mobile() {    
+    @media screen and (max-width:768px) {
+        @content;
+    }
+}
+@mixin not-mobile() {
+    @media screen and (min-width: 768px) {
+        @content;
+    }
+}
