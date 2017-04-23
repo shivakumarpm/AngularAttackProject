@@ -1,0 +1,17 @@
+#footer{
+    .footerTop{
+        background-color: #333333;
+        padding-top:46px;
+        padding-bottom:46px;
+    }
+    .footerBottom{
+        background-color: #282727;
+        padding-top:24px;
+        padding-bottom:24px;
+        span{
+            color:#b4b4b4;
+            font-size: 15px;
+            text-shadow: 2px 2px 0 #000000;
+        }
+    }
+}
