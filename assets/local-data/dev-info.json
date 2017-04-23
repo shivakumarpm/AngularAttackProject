@@ -1,25 +1,25 @@
 {
   "developers": [
     {
-      "imgUrl": "../../assets/images/dev-info/deep.png",
+      "imgUrl": "/assets/images/dev-info/deep.png",
       "name": "Deep Hazra",
       "mailID": "deephazra43@gmail.com",
       "description": "Senior Interactive Developer at Sapient Razorfish"
     },
     {
-      "imgUrl": "../../assets/images/dev-info/nabaraj.PNG",
+      "imgUrl": "/assets/images/dev-info/nabaraj.PNG",
       "name": "Nabaraj Saha",
       "mailID": "deephazra43@gmail.com",
       "description": "Senior Interactive Developer at Sapient Razorfish"
     },
     {
-      "imgUrl": "../../assets/images/dev-info/shiva.png",
+      "imgUrl": "/assets/images/dev-info/shiva.png",
       "name": "Shivakumar PM",
       "mailID": "deephazra43@gmail.com",
       "description": "Senior Interactive Developer at Sapient Razorfish"
     },
     {
-      "imgUrl": "../../assets/images/dev-info/gowtham.png",
+      "imgUrl": "AngularAttackProject//assets/images/dev-info/gowtham.png",
       "name": "Gowtham Balashanmugam",
       "mailID": "deephazra43@gmail.com",
       "description": "Senior Interactive Developer at Sapient Razorfish"
